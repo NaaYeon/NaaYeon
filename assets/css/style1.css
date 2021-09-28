@@ -661,6 +661,24 @@ body {
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
 }
+
+#section1 .left .cdimg1 {
+	width: 75%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 3%;
+	margin: auto;
+	opacity: 0;
+}
+
+#section1 .left .cdimg1.show {
+	opacity: 1;
+	animation-name: zoomIn;
+	animation-duration: 0.5s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+}
 /*section2------------------------------------------------------------------------*/
 #section2 {
 	background: #fff;
