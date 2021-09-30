@@ -1168,37 +1168,46 @@ body {
 	animation-delay: 0.7s;
 }
 
-#section4 .left .bodyshop1 {
-	width: 100%;
+#section4 .left .cdimg4_1 {
+	width: 50%;
 	position: absolute;
 	top: 0;
-	bottom: 0;
-	right: -100%;
+	bottom: 35%;
 	left: 0;
+	right: 40%;
 	margin: auto;
 	opacity: 0;
-	transition: all 0.5s ease 0.3s;
 }
 
-#section4 .left .bodyshop1.show {
+#section4 .left .cdimg4_1.show {
 	opacity: 1;
-	right: -35%
+	animation-name: fadeInDown;
+	animation-duration: 0.5s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 0.2s;
 }
 
-#section4 .left .bodyshop2 {
-	width: 53%;
+#section4 .left .cdimg4_2 {
+	width: 50%;
 	position: absolute;
 	top: 0;
-	bottom: -10%;
-	left: 10%;
+	bottom: -30%;
+	left: 30%;
+	right: 0;
 	margin: auto;
 	opacity: 0;
-	transition: all 0.5s ease 0.7s;
+	transition-delay: 0.4s;
 }
 
-#section4 .left .bodyshop2.show {
+#section4 .left .cdimg4_2.show {
 	opacity: 1;
-	bottom: 0%;
+	top: 10%;
+	animation-name: fadeInDown;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 0.4s;
 }
 
 
