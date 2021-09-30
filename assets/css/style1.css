@@ -663,11 +663,12 @@ body {
 }
 
 #section1 .left .cdimg1 {
-	width: 30%;
+	width: 50%;
 	position: absolute;
 	top: 0;
 	bottom: 0;
-	left: 3%;
+	left: 0;
+	right: 40%;
 	margin: auto;
 	opacity: 0;
 }
