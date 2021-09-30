@@ -1301,7 +1301,7 @@ body {
 }
 
 #section5 .left .cdimg5_1 {
-	width: 25%;
+	width: 50%;
 	position: absolute;
 	top: 0;
 	bottom: 35%;
@@ -1320,10 +1320,10 @@ body {
 }
 
 #section5 .left .cdimg5_2 {
-	width: 30%;
+	width: 60%;
 	position: absolute;
 	top: 0;
-	bottom: 45%;
+	bottom: -30%;
 	left: 30%;
 	right: 0;
 	margin: auto;
