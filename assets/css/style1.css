@@ -663,7 +663,7 @@ body {
 }
 
 #section1 .left .cdimg1 {
-	width: 30%;
+	width: 25%;
 	position: absolute;
 	top: 0;
 	bottom: 30%;
@@ -682,7 +682,7 @@ body {
 }
 
 #section1 .left .cdimg2 {
-	width: 40%;
+	width: 30%;
 	position: absolute;
 	top: 0;
 	bottom: 40%;
@@ -704,7 +704,7 @@ body {
 }
 
 #section1 .left .cdimg3 {
-	width: 80%;
+	width: 70%;
 	position: absolute;
 	top: 50%;
 	bottom: 0;
