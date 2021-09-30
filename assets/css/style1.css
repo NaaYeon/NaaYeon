@@ -976,12 +976,12 @@ body {
 }
 
 #section3 .left .cdimg6 {
-	width: 25%;
+	width: 35%;
 	position: absolute;
 	top: 0;
 	bottom: 35%;
 	left: 0;
-	right: 35%;
+	right: 40%;
 	margin: auto;
 	opacity: 0;
 }
@@ -995,11 +995,11 @@ body {
 }
 
 #section3 .left .cdimg7 {
-	width: 30%;
+	width: 35%;
 	position: absolute;
 	top: 0;
 	bottom: 45%;
-	left: 30%;
+	left: 40%;
 	right: 0;
 	margin: auto;
 	opacity: 0;
