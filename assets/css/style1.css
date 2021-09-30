@@ -975,64 +975,6 @@ body {
 	animation-delay: 0.7s;
 }
 
-#section3 .left .jinair-c {
-	width: 30%;
-	bottom: -18%;
-	left: 35%;
-	position: absolute;
-	opacity: 0;
-	transition: all 0.3s ease;
-}
-
-#section3 .left .jinair-c.show {
-	opacity: 1;
-	bottom: 8%;
-}
-
-#section3 .left .jinair-l {
-	width: 26%;
-	bottom: -26%;
-	left: 20%;
-	position: absolute;
-	opacity: 0;
-	transition: all 0.3s ease 0.3s;
-}
-
-#section3 .left .jinair-l.show {
-	opacity: 1;
-	bottom: 12%;
-}
-
-#section3 .left .jinair-r {
-	width: 26%;
-	bottom: -26%;
-	left: 54%;
-	position: absolute;
-	opacity: 0;
-	transition: all 0.3s ease 0.6s;
-}
-
-#section3 .left .jinair-r.show {
-	opacity: 1;
-	bottom: 12%;
-}
-
-#section3 .left .cloud {
-	width: 100%;
-	bottom: -26%;
-	left: 20%;
-	position: absolute;
-	opacity: 0;
-}
-
-#section3 .left .cloud.show {
-	opacity: 0.6;
-	bottom: -20%;
-	animation-name: floating1;
-	animation-duration: 1.5s;
-	animation-iteration-count: infinite;
-}
-
 #section3 .left .cdimg1 {
 	width: 25%;
 	position: absolute;
