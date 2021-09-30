@@ -663,10 +663,10 @@ body {
 }
 
 #section1 .left .cdimg1 {
-	width: 50%;
+	width: 30%;
 	position: absolute;
 	top: 0;
-	bottom: 0;
+	bottom: 30%;
 	left: 0;
 	right: 40%;
 	margin: auto;
@@ -682,10 +682,12 @@ body {
 }
 
 #section1 .left .cdimg2 {
-	width: 50%;
+	width: 40%;
 	position: absolute;
-	top: 10%;
-	right: 3%;
+	top: 0;
+	bottom: 30%;
+	left: 40%;
+	right: 0;
 	margin: auto;
 	opacity: 0;
 	transition-delay: 0.8s;
