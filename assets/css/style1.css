@@ -975,7 +975,7 @@ body {
 	animation-delay: 0.7s;
 }
 
-#section3 .left .cdimg1 {
+#section3 .left .cdimg6 {
 	width: 25%;
 	position: absolute;
 	top: 0;
@@ -986,7 +986,7 @@ body {
 	opacity: 0;
 }
 
-#section3 .left .cdimg1.show {
+#section3 .left .cdimg6.show {
 	opacity: 1;
 	animation-name: zoomIn;
 	animation-duration: 0.5s;
@@ -994,7 +994,7 @@ body {
 	animation-iteration-count: 1;
 }
 
-#section3 .left .cdimg2 {
+#section3 .left .cdimg7 {
 	width: 30%;
 	position: absolute;
 	top: 0;
@@ -1006,7 +1006,7 @@ body {
 	transition-delay: 0.8s;
 }
 
-#section3 .left .cdimg2.show {
+#section3 .left .cdimg7.show {
 	opacity: 1;
 	top: 10%;
 	animation-name: zoomIn;
@@ -1016,7 +1016,7 @@ body {
 	animation-delay: 0.8s;
 }
 
-#section3 .left .cdimg3 {
+#section3 .left .cdimg8 {
 	width: 60%;
 	position: absolute;
 	top: 50%;
@@ -1028,7 +1028,7 @@ body {
 	transition-delay: 1s;
 }
 
-#section3 .left .cdimg3.show {
+#section3 .left .cdimg8.show {
 	opacity: 1;
 	animation-name: flipInX;
 	animation-duration: 1s;
