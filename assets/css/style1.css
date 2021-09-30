@@ -1033,6 +1033,68 @@ body {
 	animation-iteration-count: infinite;
 }
 
+#section3 .left .cdimg1 {
+	width: 25%;
+	position: absolute;
+	top: 0;
+	bottom: 35%;
+	left: 0;
+	right: 35%;
+	margin: auto;
+	opacity: 0;
+}
+
+#section3 .left .cdimg1.show {
+	opacity: 1;
+	animation-name: zoomIn;
+	animation-duration: 0.5s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+}
+
+#section3 .left .cdimg2 {
+	width: 30%;
+	position: absolute;
+	top: 0;
+	bottom: 45%;
+	left: 30%;
+	right: 0;
+	margin: auto;
+	opacity: 0;
+	transition-delay: 0.8s;
+}
+
+#section3 .left .cdimg2.show {
+	opacity: 1;
+	top: 10%;
+	animation-name: zoomIn;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 0.8s;
+}
+
+#section3 .left .cdimg3 {
+	width: 70%;
+	position: absolute;
+	top: 50%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	opacity: 0;
+	transition-delay: 1s;
+}
+
+#section3 .left .cdimg3.show {
+	opacity: 1;
+	animation-name: flipInX;
+	animation-duration: 1s;
+	animation-timing-function: ease;
+	animation-iteration-count: 1;
+	animation-delay: 1s;
+}
+
 @keyframes floating1 {
 	0% {
 		transform: translateY(0%);
@@ -1044,7 +1106,6 @@ body {
 		transform: translateY(0%);
 	}
 }
-
 
 /*section4------------------------------------------------------------------------*/
 
