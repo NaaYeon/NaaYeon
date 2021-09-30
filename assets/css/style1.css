@@ -1161,7 +1161,7 @@ body {
 
 #section4 .right-title .view.show {
 	opacity: 1;
-	animation-name: fadeInUp;
+	animation-name: fadeInLeft;
 	animation-duration: 0.6s;
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
@@ -1181,7 +1181,7 @@ body {
 
 #section4 .left .cdimg4_1.show {
 	opacity: 1;
-	animation-name: fadeInDown;
+	animation-name: fadeInLeft;
 	animation-duration: 0.5s;
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
