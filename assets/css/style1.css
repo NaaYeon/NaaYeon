@@ -1300,17 +1300,18 @@ body {
 	animation-delay: 0.7s;
 }
 
-#section5 .left .hy1 {
-	width: 75%;
+#section5 .left .cdimg1 {
+	width: 25%;
 	position: absolute;
 	top: 0;
-	bottom: 0;
-	left: 3%;
+	bottom: 35%;
+	left: 0;
+	right: 35%;
 	margin: auto;
 	opacity: 0;
 }
 
-#section5 .left .hy1.show {
+#section5 .left .cdimg1.show {
 	opacity: 1;
 	animation-name: zoomIn;
 	animation-duration: 0.5s;
@@ -1318,65 +1319,26 @@ body {
 	animation-iteration-count: 1;
 }
 
-#section5 .left .hy2 {
-	width: 33%;
+#section5 .left .cdimg2 {
+	width: 30%;
 	position: absolute;
-	top: 10%;
-	right: 3%;
+	top: 0;
+	bottom: 45%;
+	left: 30%;
+	right: 0;
 	margin: auto;
 	opacity: 0;
 	transition-delay: 0.8s;
 }
 
-#section5 .left .hy2.show {
+#section5 .left .cdimg2.show {
 	opacity: 1;
 	top: 10%;
-	animation-name: flipInX;
+	animation-name: zoomIn;
 	animation-duration: 1s;
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
 	animation-delay: 0.8s;
-}
-
-#section5 .left .hy3 {
-	width: 33%;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	right: 3%;
-	margin: auto;
-	opacity: 0;
-	transition-delay: 1s;
-}
-
-#section5 .left .hy3.show {
-	opacity: 1;
-	right: 3%;
-	animation-name: flipInX;
-	animation-duration: 1s;
-	animation-timing-function: ease;
-	animation-iteration-count: 1;
-	animation-delay: 1s;
-}
-
-#section5 .left .hy4 {
-	width: 33%;
-	position: absolute;
-	bottom: 10%;
-	right: 3%;
-	margin: auto;
-	opacity: 0;
-	transition-delay: 1.2s;
-}
-
-#section5 .left .hy4.show {
-	opacity: 1;
-	bottom: 10%;
-	animation-name: flipInX;
-	animation-duration: 1s;
-	animation-timing-function: ease;
-	animation-iteration-count: 1;
-	animation-delay: 1.2s;
 }
 /*section6------------------------------------------------------------------------*/
 #section6 {
