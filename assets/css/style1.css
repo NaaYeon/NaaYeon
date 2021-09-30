@@ -712,7 +712,7 @@ body {
 	right: 0;
 	margin: auto;
 	opacity: 0;
-	transition-delay: 0.8s;
+	transition-delay: 1s;
 }
 
 #section1 .left .cdimg3.show {
@@ -722,7 +722,7 @@ body {
 	animation-duration: 1s;
 	animation-timing-function: ease;
 	animation-iteration-count: 1;
-	animation-delay: 0.8s;
+	animation-delay: 1s;
 }
 /*section2------------------------------------------------------------------------*/
 #section2 {
