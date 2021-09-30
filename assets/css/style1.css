@@ -399,6 +399,15 @@ body {
 	margin-top: -20px;
 }
 
+#section0 .ddy {
+	font-family: 'cursive', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 100px;
+	color: #F47D7D;
+	margin-top: -20px;
+}
+
 @keyframes ani-mouse {
 	0% {
 		opacity: 1;
