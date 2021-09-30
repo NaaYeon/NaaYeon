@@ -379,13 +379,13 @@ body {
 
 #section0 .sub-main {
 	position: absolute;
-	top: 20%;
+	top: 10%;
 	right: 0;
 	left: 0;
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
 	font-size: 64px;
-	line-height: 90px;
+	line-height: 150px;
 	text-align: center;
 	color: #fff;
 }
