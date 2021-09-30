@@ -522,6 +522,7 @@ body {
 .right-container .right-title .line2 {
 	width: 350px;
 	height: 5px;
+	margin-top: 5px;
 	border-top: 2px solid #fff;
 }
 
