@@ -519,6 +519,12 @@ body {
 	border-top: 4px solid #fff;
 }
 
+.right-container .right-title .line2 {
+	width: 350px;
+	height: 5px;
+	border-top: 2px solid #fff;
+}
+
 .right-container .right-title p {
 	font-family: 'Noto Sans KR';
 	font-style: normal;
